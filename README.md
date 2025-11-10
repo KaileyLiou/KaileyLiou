@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Kailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaileyLiou&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaileyLiou&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=KaileyLiou&theme=tokyonight&hide_border=true)
+
+## 🧠 Programming Languages & Tools
+
+<p align="center">
+
+<!-- Programming Languages -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+<br>
+
+<!-- Software & Tools -->
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-F4B400?style=for-the-badge&logo=google&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20CC-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-F25022?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
+</p>
