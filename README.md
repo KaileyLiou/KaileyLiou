@@ -15,11 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Kailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaileyLiou&show_icons=true&theme=tokyonight)
+<!-- ![Kailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaileyLiou&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaileyLiou&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KaileyLiou&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=KaileyLiou&theme=tokyonight&hide_border=true) -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=KaileyLiou&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🧠 Programming Languages & Tools
 
