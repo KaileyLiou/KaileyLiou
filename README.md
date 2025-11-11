@@ -2,8 +2,8 @@
 
 I am a high school junior in New York City and have a strong interest in computer science and STEM.
 
-- Began coding in middle school and have recently been coding more
-- Enjoy web dev and 
+- Began coding in middle school and have been expanding my skills over the past year
+- Passionate about web development, app development, cybersecurity, robotics, and AI
 - Currently working on building a fully functional iOS app
 - [Check out my personal website](https://kaileyliou.github.io/Personal-Website/)
 
