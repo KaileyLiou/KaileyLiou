@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi! I'm Kailey
 
 <!--
 **KaileyLiou/KaileyLiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![Kailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaileyLiou&show_icons=true&theme=tokyonight)
-
+0
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaileyLiou&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KaileyLiou&theme=tokyonight&hide_border=true) -->
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=KaileyLiou&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🧠 Programming Languages & Tools
+## Programming Languages & Tools
 
 <p align="center">
 
@@ -38,8 +38,6 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-<br>
 
 <!-- Software & Tools -->
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
