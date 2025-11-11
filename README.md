@@ -1,5 +1,12 @@
 # Hi! I'm Kailey 👋
 
+I am a high school junior in New York City and have a strong interest in computer science and STEM.
+
+- Began coding in middle school and have recently been coding more
+- Enjoy web dev and 
+- Currently working on building a fully functional iOS app
+- [Check out my personal website](https://kaileyliou.github.io/Personal-Website/)
+
 <!--
 **KaileyLiou/KaileyLiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
