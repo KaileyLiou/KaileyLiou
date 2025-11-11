@@ -4,6 +4,8 @@ I am a high school junior in New York City and have a strong interest in compute
 
 - Began coding in middle school and have been expanding my skills over the past year
 - Passionate about web development, app development, cybersecurity, robotics, and AI
+- Programmer for my school's FRC robotics team
+- Member of my school's Hack Club and the international Hack Club community
 - Currently working on building a fully functional iOS app
 - [Check out my personal website](https://kaileyliou.github.io/Personal-Website/)
 
@@ -43,6 +45,10 @@ Here are some ideas to get you started:
   <br/>
   <img 
     src="https://streak-stats.demolab.com?user=KaileyLiou&theme=tokyonight&hide_border=true" 
+    height="160" 
+  />
+  <img 
+    src="https://github-readme-stats.hackclub.dev/api/wakatime?username=13765&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=one_dark_pro" 
     height="160" 
   />
 
