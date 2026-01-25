@@ -38,10 +38,10 @@ Here are some ideas to get you started:
     src="https://github-readme-stats.vercel.app/api?username=KaileyLiou&show_icons=true&theme=tokyonight&hide_border=true" 
     height="160" 
   />
-  <img 
+  <!-- <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaileyLiou&layout=compact&theme=tokyonight&hide_border=true" 
     height="160" 
-  />
+  /> -->
   <br/>
   <img 
     src="https://streak-stats.demolab.com?user=KaileyLiou&theme=tokyonight&hide_border=true" 
