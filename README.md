@@ -3,10 +3,11 @@
 I am a high school junior in New York City and have a strong interest in computer science and STEM.
 
 - Began coding in middle school and have been expanding my skills over the past year
-- Passionate about web development, app development, cybersecurity, robotics, and AI
-- Programmer for my school's FRC robotics team
+- Passionate about software engineering, computer science, cybersecurity, robotics, and AI
+- Programmer for my school's all-girls FRC robotics team
 - Member of my school's Hack Club and the international Hack Club community
-- Currently working on building a fully functional iOS app
+- Attended [Hack Club's Parthenon hackathon](https://parthenon.hackclub.com/) and organized [Hack Club's Campfire hackathon](https://campfire.hackclub.com/)
+- Built and published a fully functional iOS app on the App Store
 - [Check out my personal website](https://kaileyliou.github.io/Personal-Website/)
 
 <!--
