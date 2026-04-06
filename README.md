@@ -4,11 +4,11 @@ I am a high school junior in New York City and have a strong interest in compute
 
 - Began coding in middle school and have been expanding my skills over the past year
 - Passionate about software engineering, computer science, cybersecurity, robotics, and AI
-- Programmer for my school's all-girls FRC robotics team
+- Programmer for FeMaidens, my school's all-girls FRC robotics team
 - Member of my school's Hack Club and the international Hack Club community
 - Attended [Hack Club's Parthenon hackathon](https://parthenon.hackclub.com/) and organized [Hack Club's Campfire Long Island game jam](https://campfire.hackclub.com/long-island)
-- Built and published a fully functional iOS app on the App Store
-- Chief Programs Officer of [Code4NYC](https://cs4nyc0.wixsite.com/code4nyc)
+- Built and published Screens + Shots, a fully functional iOS app on the App Store
+- Chief Program Officer of [Code4NYC](https://cs4nyc0.wixsite.com/code4nyc)
 - [Check out my personal website](https://kaileyliou.github.io/Personal-Website/)
 
 <!--
