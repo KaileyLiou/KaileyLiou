@@ -1,7 +1,6 @@
 # Hi! I'm Kailey 👋
 
-I am a high school junior in New York City and have a strong interest in computer science and STEM.
-
+- High school junior in New York City
 - Began coding in middle school and have been expanding my skills over the past few years
 - Passionate about software engineering, computer science, cybersecurity, robotics, and AI
 - Programming head for FeMaidens, my school's all-girls FRC robotics team
@@ -33,7 +32,7 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KaileyLiou&theme=tokyonight&hide_border=true) -->
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -57,7 +56,7 @@ Here are some ideas to get you started:
 
 </div>
 
-## 🧠 Programming Languages & Tools
+## Programming Languages & Tools
 
 <p align="center">
 
