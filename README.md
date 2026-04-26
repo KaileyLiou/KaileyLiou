@@ -2,13 +2,14 @@
 
 I am a high school junior in New York City and have a strong interest in computer science and STEM.
 
-- Began coding in middle school and have been expanding my skills over the past year
+- Began coding in middle school and have been expanding my skills over the past few years
 - Passionate about software engineering, computer science, cybersecurity, robotics, and AI
 - Programming head for FeMaidens, my school's all-girls FRC robotics team
-- Member of my school's Hack Club and the international Hack Club community
+- Part of the Design Department for my school’s AtomHacks Committee
+- Chief Program Officer of [Code4NYC](https://cs4nyc0.wixsite.com/code4nyc)
+- Member of my school's Hack Club as well as the international Hack Club community
 - Attended [Hack Club's Parthenon hackathon](https://parthenon.hackclub.com/) and organized [Hack Club's Campfire Long Island game jam](https://campfire.hackclub.com/long-island)
 - Built and published Screens + Shots, a fully functional iOS app on the App Store
-- Chief Program Officer of [Code4NYC](https://cs4nyc0.wixsite.com/code4nyc)
 - [Check out my personal website](https://kaileyliou.github.io/Personal-Website/)
 
 <!--
@@ -36,14 +37,14 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <!-- <img 
+  <img 
     src="https://github-readme-stats.vercel.app/api?username=KaileyLiou&show_icons=true&theme=tokyonight&hide_border=true" 
     height="160" 
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaileyLiou&layout=compact&theme=tokyonight&hide_border=true" 
     height="160" 
-  /> -->
+  />
   <br/>
   <img 
     src="https://streak-stats.demolab.com?user=KaileyLiou&theme=tokyonight&hide_border=true" 
