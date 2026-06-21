@@ -4,9 +4,9 @@
 - Began coding in middle school and have been expanding my skills over the past few years
 - Passionate about software engineering, computer science, cybersecurity, robotics, and AI
 - Programming head for FeMaidens, my school's all-girls FRC robotics team
-- Part of the Design Department for my school’s AtomHacks Committee
+- Director of Graphic Design for my school’s AtomHacks Committee
 - Chief Program Officer of [Code4NYC](https://cs4nyc0.wixsite.com/code4nyc)
-- Member of my school's Hack Club as well as the international Hack Club community
+- Treasurer and graphic designer of my school's Hack Club and an active member of the international Hack Club community
 - Attended [Hack Club's Parthenon hackathon](https://parthenon.hackclub.com/) and organized [Hack Club's Campfire Long Island game jam](https://campfire.hackclub.com/long-island)
 - Built and published Screens + Shots, a fully functional iOS app on the App Store
 - [Check out my personal website](https://kaileyliou.github.io/Personal-Website/)
