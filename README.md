@@ -1,6 +1,6 @@
 # Hi! I'm Kailey 👋
 
-- High school junior in New York City
+- High school senior in New York City
 - Began coding in middle school and have been expanding my skills over the past few years
 - Passionate about software engineering, computer science, cybersecurity, robotics, and AI
 - Programming head for FeMaidens, my school's all-girls FRC robotics team
