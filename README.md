@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   />
   <br/>
   <img 
-    src="https://streak-stats.demolab.com?user=KaileyLiou&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com/?user=KaileyLiou&theme=tokyonight&hide_border=true" 
     height="160" 
   />
   <img 
