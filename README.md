@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaileyLiou&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=KaileyLiou&theme=tokyonight&hide_border=true) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=KaileyLiou&theme=tokyonight&hide_border=true) -->
 
 ## GitHub Stats
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   /> -->
   <br/>
   <img 
-    src="https://streak-stats.demolab.com?user=KaileyLiou&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=KaileyLiou&theme=tokyonight&hide_border=true"
     height="160" 
   />
   <img 
