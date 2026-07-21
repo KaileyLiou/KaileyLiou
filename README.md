@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![Kailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaileyLiou&show_icons=true&theme=tokyonight)
-0
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaileyLiou&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KaileyLiou&theme=tokyonight&hide_border=true) -->
@@ -36,14 +36,14 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <img 
+<!--  <img 
     src="https://github-readme-stats.vercel.app/api?username=KaileyLiou&show_icons=true&theme=tokyonight&hide_border=true" 
     height="160" 
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaileyLiou&layout=compact&theme=tokyonight&hide_border=true" 
     height="160" 
-  />
+  /> -->
   <br/>
   <img 
     src="https://streak-stats.demolab.com/?user=KaileyLiou&theme=tokyonight&hide_border=true" 
