@@ -1,6 +1,6 @@
 # Hi! I'm Kailey 👋
 
-I'm a high school senior in New York City passionate about computer science, software engineering, and cybersecurity.
+I'm a high school senior in New York City passionate about computer science, with interests in software engineering, AI/ML, and cybersecurity.
 
 - Started coding in middle school and have been expanding my skills over the past few years
 - Built and published Screens + Shots, a fully functional iOS app on the [App Store](https://apps.apple.com/us/app/screens-shots/id6755749446)
