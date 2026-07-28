@@ -5,7 +5,7 @@ I'm a high school senior in New York City passionate about computer science, wit
 - Started coding in middle school and have been expanding my skills over the past few years
 - Built and published Screens + Shots, a fully functional iOS app on the [App Store](https://apps.apple.com/us/app/screens-shots/id6755749446)
 - Attended Hack Club's [Parthenon hackathon](https://parthenon.hackclub.com/), organized [Campfire Long Island](https://campfire.hackclub.com/long-island), and organized [Sunbeam NYC](https://sunbeam.hackclub.com/new-york-city)
-- Programming head for FeMaidens, my school's all-girls FRC robotics team
+- Programming head for FeMaidens, my school's all-girls and gender-minorities FRC robotics team
 - Director of Graphic Design for my school’s AtomHacks Committee
 - Chief Program Officer of [Code4NYC](https://cs4nyc0.wixsite.com/code4nyc)
 - Treasurer and graphic designer of my school's Hack Club and an active member of the international [Hack Club](https://hackclub.com/) community
