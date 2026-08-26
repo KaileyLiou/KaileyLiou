@@ -7,7 +7,7 @@ I'm a high school senior in New York City passionate about computer science, wit
 - Attended Hack Club's [Parthenon hackathon](https://parthenon.hackclub.com/), organized [Campfire Long Island](https://campfire.hackclub.com/long-island), and organized [Sunbeam NYC](https://sunbeam.hackclub.com/new-york-city)
 - Programming head for FeMaidens, my school's all-girls and gender-minorities FRC robotics team
 - Director of Graphic Design for my school’s AtomHacks Committee
-- Chief Program Officer of [Code4NYC](https://cs4nyc0.wixsite.com/code4nyc)
+- Chief Program Officer and Director of Operations of [Code4NYC](https://cs4nyc0.wixsite.com/code4nyc)
 - Treasurer and graphic designer of my school's Hack Club and an active member of the international [Hack Club](https://hackclub.com/) community
 - Check out my [personal website](https://kaileyliou.github.io/Personal-Website/)
 
