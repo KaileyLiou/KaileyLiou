@@ -9,7 +9,7 @@ I'm a high school senior in New York City passionate about computer science, wit
 - Director of Graphic Design for my school’s [AtomHacks Committee](https://www.atomhacks.org/)
 - Chief Program Officer and Director of Operations for [Code4NYC](https://cs4nyc0.wixsite.com/code4nyc)
 - Treasurer and Graphic Designer for my school's Hack Club
-- Check out my [personal website](https://kaileyliou.github.io/Personal-Website/)
+- Check out my [personal website](https://kaileyliou.com/)
 
 <!--
 **KaileyLiou/KaileyLiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
