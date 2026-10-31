@@ -1,4 +1,4 @@
-# Hi! I'm Kailey 👋
+# Hi, I'm Kailey!
 
 I'm a high school senior in New York City passionate about computer science, with interests in software engineering, cybersecurity, and AI/ML.
 
